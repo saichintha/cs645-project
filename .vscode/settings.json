@@ -1,9 +1,0 @@
-{
-    "python.pythonPath": "/usr/local/opt/python/bin/python3.7",
-    "python.terminal.executeInFileDir": true,
-    "code-runner.executorMap": {
-        "python": "python3.7",
-    },
-    "terminal.integrated.shell.osx": "",
-
-}
